@@ -26,7 +26,7 @@ const getProducts = async (req: Request, res: Response): Promise<Response> => {
 };
 
 /**
- * Get products
+ * Get product by id
  *
  * @param {*} req
  * @param {*} res
